@@ -17,8 +17,8 @@ built with C# .NET Framework and SQL Server.
 
 ## How to Run
 1. Clone the repository
-2. Run the SQL script in `database/` to create the database
-3. Open `FabricaPiese_PAW_Proiect.sln` in Visual Studio
+2. Open `FabricaPiese_PAW_Proiect.sln` in Visual Studio
+3. Create a SQL Server LocalDB database named `FabricaPieseAutoDB`
 4. Build and run
 
 ## Tech Stack
