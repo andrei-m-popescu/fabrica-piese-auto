@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricaPiese_PAW_Proiect", "FabricaPiese_PAW_Proiect\FabricaPiese_PAW_Proiect.csproj", "{5F97B6E6-3211-46E0-8874-511079E18631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F97B6E6-3211-46E0-8874-511079E18631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F97B6E6-3211-46E0-8874-511079E18631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F97B6E6-3211-46E0-8874-511079E18631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F97B6E6-3211-46E0-8874-511079E18631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E71D000C-13D6-469F-A724-1E543BAC1CE9}
+	EndGlobalSection
+EndGlobal
